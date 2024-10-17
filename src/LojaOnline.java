@@ -4,6 +4,11 @@ import strategy.DescontoClienteNovo;
 import strategy.DescontoClienteRegular;
 import strategy.DescontoClienteVIP;
 
+/**
+ * Nome: Diego Garcia Perez Biguette
+ * RA: 1424
+ */
+
 public class LojaOnline {
     public static void main(String[] args) {
         var pChocolate = new Produto("Chocolate", 11.00);

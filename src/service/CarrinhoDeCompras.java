@@ -6,6 +6,11 @@ import strategy.DescontoStrategy;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Nome: Diego Garcia Perez Biguette
+ * RA: 1424
+ */
+
 public class CarrinhoDeCompras {
     private final List<Produto> produtos = new ArrayList<>();
     private DescontoStrategy descontoStrategy;

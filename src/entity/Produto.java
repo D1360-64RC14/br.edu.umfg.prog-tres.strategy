@@ -1,5 +1,10 @@
 package entity;
 
+/**
+ * Nome: Diego Garcia Perez Biguette
+ * RA: 1424
+ */
+
 public class Produto {
     private final String nome;
     private final double preco;
